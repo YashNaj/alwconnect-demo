@@ -24,3 +24,6 @@ vite.config.ts.timestamp-*
 
 # Don't track local files used by claude 
 PROJECT_ASSETS
+
+# context-mem
+.context-mem/
